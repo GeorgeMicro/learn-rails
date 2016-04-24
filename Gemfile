@@ -16,7 +16,9 @@ gem 'spring'
 gem 'pusher'
 gem 'pusher-client'
 # learn-rails
+# Zurb Foundation Gem
 gem 'foundation-rails', '~> 5.5'
+# 
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
