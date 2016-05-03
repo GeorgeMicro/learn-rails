@@ -3,9 +3,9 @@
 <div class="form">
   <%= simple_form_for @contact do |form| %>
     <%= form.error_notification %>
-    <%= form.input :name, autofocus: true %>
-    <%= form.input :email %>
-    <%= form.input :content, as: :text %>
-    <%= form.button :submit, 'Submit', class: 'submit' %>
+    <%= form.input :name, label: t(:name), autofocus: true %>
+    <%= form.input :email, label: t(:email) %>
+    <%= form.input :content, label: t(:content), as: :text %>
+    <%= form.button :submit, t(:submit), class: 'submit' %>
   <% end %>
 </div>

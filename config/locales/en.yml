@@ -22,8 +22,17 @@
 en:
   hello: "Hello world"
   stay_in_touch: "Stay in Touch."
+  your_email_address: "Your email address..."
   home: "Home"
   about: "About"
   contact: "Contact"
   chinese: "Chinese"
   english: "English"
+  name: "Name"
+  email: "Email"
+  content: "Content"
+  submit: "Submit"
+  signup: "Sign up for the newsletter"
+  copyright: "Copyright 2016"
+  rights: 'All rights reserved.'
+  languages: "Locale"
